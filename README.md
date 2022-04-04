@@ -1,3 +1,1 @@
-# MERTKOCLAR
-
-  Arduino ile ilgili projelerimi burada paylaşıyorum.
+# MERTKOCLAR Arduino projeleri
