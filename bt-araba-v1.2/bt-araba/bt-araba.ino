@@ -50,7 +50,6 @@ void setup(){
 
 void loop(){ 
   komut=Serial.read();
-  Serial.print(komut);
        /// Yönlere göre hareketler ///
   
   if(komut=='f'|| komut=='F')      {  git(); }
