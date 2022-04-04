@@ -1,0 +1,2 @@
+Trig - 7.pin
+Echo - 6.pin
